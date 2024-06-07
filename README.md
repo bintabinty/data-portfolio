@@ -6,8 +6,8 @@ Welcome to my data portfolio! This repository showcases my work as a Data Analys
 
 ## Table of Contents
 - [About Me](#about-me)
-- [Data Analyst Projects](#data-analyst-projects)
-- [Data Scientist Projects](#data-scientist-projects)
+- [data analyst projects](#data analyst projects)
+- [Data Scientist project](#data scientist projects)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Contact](#contact)
 
@@ -56,6 +56,6 @@ If you have any questions or would like to discuss potential opportunities, plea
 
 - **Email:** [bintyothara@gmail.com.com](mailto:your.email@example.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourprofile)
+- **GitHub:** [https://github.com/bintabinty/data-portfolio/)
 
 Thank you for visiting my data portfolio!
