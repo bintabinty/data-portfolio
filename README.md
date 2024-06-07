@@ -6,8 +6,8 @@ Welcome to my data portfolio! This repository showcases my work as a Data Analys
 
 ## Table of Contents
 - [About Me](#about-me)
-- [data analyst projects](#data analyst projects)
-- [Data Scientist project](#data scientist projects)
+- [Data Nnalyst Projects](#data-analyst-projects)
+- [Data Scientist Project](#data-scientist-projects)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Contact](#contact)
 
